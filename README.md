@@ -1,4 +1,4 @@
-# Nuxeo Orbeon
+# Nuxeo BlobManager Multi
 
 ## Goal
 
@@ -45,8 +45,10 @@ Open Question: we would like to prevent any GC from the preprod side, but since 
 
 
 
-## Limitations
+## Limitations / TODO
 
+ - rename maven modules from `binarymanager` to `blobmanager` ... pff
+ - handle GC
 
 ## About Nuxeo
 
